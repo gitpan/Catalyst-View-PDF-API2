@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Catalyst-View-PDF-API2
-version:            0.01
+version:            0.02
 abstract:           Create PDF files from Catalyst using Template Toolkit templates
 author:
     - Ferruccio Zamuner <nonsolosoft@diff.org>
