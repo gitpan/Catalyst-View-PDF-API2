@@ -14,3 +14,4 @@ t/lib/TestApp/Controller/Root.pm
 t/lib/TestApp/root/pdf_templates/test_pdf.tt
 t/lib/TestApp/View/PDF/API2.pm
 META.yml                                 Module meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
